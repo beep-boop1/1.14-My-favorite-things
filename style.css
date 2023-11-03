@@ -46,3 +46,15 @@ nav li:hover .dropdown-content{
 .dropdown-content ul{
     flex-direction:column;
 }
+.courier{
+    font-family: "Courier New", Courier, monospace;
+}
+.verdana{
+    font-family: "Verdana", Verdana, sans-serif;
+}
+.times{
+    font-family: "Times New Roman", serif;
+}
+.lucida{
+    font-family: "Lucida Console", Lucida, monospace;
+}
